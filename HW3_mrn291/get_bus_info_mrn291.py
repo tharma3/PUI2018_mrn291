@@ -13,7 +13,7 @@ except ImportError:
     import urllib.request as urllib
 
 if len(sys.argv) != 3:
-    print("Invalid number of arguments. Run script as python Assignment_3.py <BUS_LINE> <BUS_LINE>.csv. Note bus lines are case sensitive.")
+    print("Invalid number of arguments. Run script as python get_bus_info_mrn291.py <BUS_LINE> <BUS_LINE>.csv. Note bus lines are case sensitive.")
 
 #get the data from mta
 url_base = 'http://bustime.mta.info/api/siri/vehicle-monitoring.json?key='
