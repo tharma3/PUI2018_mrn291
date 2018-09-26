@@ -1,7 +1,7 @@
 # Homework Assignment 3 for PUI2018 Evening Session
 
 #### Part One
-I did part one of this assignment (deleting data from a repository) independently.
+I did part one of this assignment [(deleting data from a repository)](https://github.com/tharma3/PUI2018_mrn291/blob/master/HW3_mrn291/Lab3_mrn291/README.md) independently.
 
 #### Part Two
 I did part two of this assignment (reading in data from Open Data) independently, consulting the following resources:
@@ -14,3 +14,8 @@ I did part two of this assignment (reading in data from Open Data) independently
 I worked on part three of this assignment with [Christine Biddlecombe](mailto:cb4421@nyu.edu) and she showed me how to use the system argument to submit the key and the bus line via the command line.
 
 I also consulted Dr. Bianco's [weather example script](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/APIreadingJson.ipynb) to see how to use urllib and Dr. Bianco's [simple script example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonScript.py) for how to check the system argument length.
+
+#### Part Four
+I worked on this part of the homework independently, although much of this assignment built on Assignment 3 so my disclosures for that section still apply.
+
+I also consulted Dr. Bianco's [writing to csv example](https://github.com/fedhere/PUI2018_fb55/blob/master/Lab3_fb55/aSimplePythonThatWritesToCSV.py).
