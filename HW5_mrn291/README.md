@@ -24,7 +24,7 @@ I submitted a pull request from my forked copy to my assigned partner, Pranay Ac
 |----------------------|-------------------------|----------------------------|---------------------------------------------------------------------------------------------|--------------------------|-------------------|------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Logistic Regression  | Tinnitus                | Categorical                | Many, including age, gender, smoking history, household size, stress, thyroid disease, etc. | Mostly categorical       |                   |                        | Which features are most correlated with a self-reported tinnitus diagnosis? | Tinnitus is random with respect to age, gender, smoking, etc. | p < 0.05 | [Tracking Diet Preferences of Bats Using Stable Isotope and Fatty Acid Signatures of Faeces](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127578) |
 
-![main plot](screenshots/tinnitus.png)
+![main plot](screenshots/tinnitus.PNG)
 
 #### Part Three
 
