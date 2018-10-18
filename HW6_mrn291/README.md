@@ -13,5 +13,5 @@ I completed this part of the assignment independently.
 #### Part Two
 For part two, we were asked to complete a series of SQL queries using citibike data and the CartoDB API.
 
-I completed this part of the assignment independently.
+I missed the class session where part of this assignment was completed so Christine Biddlecombe showed me her notes from the in-class lab, which were especially helpful for the imports and defining the function.  Otherwise I worked through the queries independently.
 
