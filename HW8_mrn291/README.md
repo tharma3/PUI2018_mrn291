@@ -8,5 +8,4 @@ The dataset I used for this assignment is an anonymized list of citizens in New 
 Here is the plot:
 
 ![womp womp](https://github.com/tharma3/PUI2018_mrn291/blob/master/HW8_mrn291/distribution_by_borough.png)
-
 Figure showing the distribution of the 4 major housing types in each borough for clients who are potentially vulnerable in the event of a coastal storm.
