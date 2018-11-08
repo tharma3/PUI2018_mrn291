@@ -9,3 +9,6 @@ Here is the plot:
 
 ![womp womp](https://github.com/tharma3/PUI2018_mrn291/blob/master/HW8_mrn291/distribution_by_borough.png)
 Figure showing the distribution of the 4 major housing types in each borough for clients who are potentially vulnerable in the event of a coastal storm.
+
+#### Assignment 2
+For this [assignment](https://github.com/tharma3/PUI2018_mrn291/blob/master/HW8_mrn291/Assignment_2.ipynb), we were asked to complete our Citibike assignment from HW4 as well as author [a short paper](https://www.authorea.com/336168/M1PNJ6JPDhgbNRg_A6U8hQ) discussing our data and methods.
