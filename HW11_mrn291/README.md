@@ -10,3 +10,5 @@ I worked on this assignment with help from Ilyas, Christine Biddlecombe, whom I 
 #### Assignment 2
 
 For this assignment, we were asked to incorporate our reviewers' feedback on our plots.  I fixed the weird border thing going on!  I worked independently on this assignment.
+
+![womp womp](https://github.com/tharma3/PUI2018_mrn291/blob/master/HW11_mrn291/distribution_by_borough.png)
