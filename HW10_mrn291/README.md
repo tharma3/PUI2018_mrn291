@@ -7,7 +7,7 @@ For this assignment, we were asked to finish the in-class lab.  I did this assig
 
 #### Assignment 2
 
-For this assignment, we were asked to build several different models to describe the relationship between the number of units in a building and the total energy used by the building.  I (almost) completed this lab independently, consulting Dr. Bianco's example notebooks from the UI repository, the slides, as well as the following internet resources.
+For this assignment, we were asked to build several different models to describe the relationship between the number of units in a building and the total energy used by the building.  I (almost) completed this assignment independently, consulting Dr. Bianco's example notebooks from the UI repository, the slides, as well as the following internet resources.
 
 
 [Making multiple columns numeric](https://stackoverflow.com/questions/36814100/pandas-to-numeric-for-multiple-columns)
